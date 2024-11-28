@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prathmesh.jagtap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\prathmesh.jagtap\\.nuget\\packages"
+    ]
+  }
+}
